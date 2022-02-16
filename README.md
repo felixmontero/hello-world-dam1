@@ -1,4 +1,4 @@
-#EJERCICIO 1
+# EJERCICIO 1
 ## Contribuir a un repositorio existente
 + Nos decargamos github en el pc.
 + Reemplazamos `propietario/repositorio` con el propietario y el nombre del repositorio para clonar.

@@ -17,3 +17,5 @@ git commit -m "my snapshot"
 git push --set-upstream origin my-branch
 
 [![ACT1-PAR1-1.png](https://i.postimg.cc/s2Q2nrNB/ACT1-PAR1-1.png)](https://postimg.cc/VSw16311)
+[![ACT1-PAR1-2.png](https://i.postimg.cc/3RjPX7vQ/ACT1-PAR1-2.png)](https://postimg.cc/CB1P037c
+[![ACT1-PART-1-3.png](https://i.postimg.cc/ZRgyLttj/ACT1-PART-1-3.png)](https://postimg.cc/sQYXVL2Z)
